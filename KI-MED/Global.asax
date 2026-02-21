@@ -1,0 +1,1 @@
+﻿<%@ Application Codebehind="Global.asax.cs" Inherits="KI_MED.WebApiApplication" Language="C#" %>
